@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Response>
+  <Say voice="alice">Hi! Thanks for joining my talk tonight.</Say>
+  <Play>http://url-to-audio.mp3</Play>
+</Response>
